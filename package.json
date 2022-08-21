@@ -2,6 +2,10 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "8.11.0",
+    "node": "16.16.0"
+  },
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
@@ -36,10 +40,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "engines": {
-      "npm": "8.11.0",
-      "node": "16.16.0"
-    },
+    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
